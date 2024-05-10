@@ -756,6 +756,11 @@ file = "config/xaeroworldmap.txt"
 hash = "b28cb96ae7faf840f3e6d5397aa6c88e5648e25ff0b72f897538c18ba53f212b"
 
 [[files]]
+file = "mods/aecapfix.pw.toml"
+hash = "56583f2f505b291b4d80358546314a7960c4174a32539dfbf8d8ade7f8a0eae8"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "ca5ab66e55fd02c0ec3a9234d90b5a0f81a42cebabc80ccadc4a2cfd6e806cf5"
 metafile = true
