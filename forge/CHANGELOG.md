@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.0...forge-v2.0.1) (2024-05-10)
+
+
+### ⛭ Miscellaneous
+
+* release 2.0.1 ([63eddab](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/63eddabf2e5f160444cc3948cdf1e1a75d9df259))
+
 ## 2.0.0 (2024-05-10)
 
 
