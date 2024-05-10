@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.0.0 (2024-05-10)
+
+
+### ☀ Modpack Changes
+
+* **forge/aecapfix:** add AECapFix to fix AE2 and IC2 compatibility issues ([ba343f3](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/ba343f37b22f4f0daa675bc6e5ebe2d22eed9464))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 2.0.0 ([1c06fed](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/1c06fedf42c572cebcfc5675dce2e25dc2833246))
+
 ## [1.3.9](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v1.3.8...forge-v1.3.9) (2024-05-10)
 
 
