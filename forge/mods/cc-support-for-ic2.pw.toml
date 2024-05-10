@@ -1,0 +1,13 @@
+name = "CC Support for IC2"
+filename = "ic2ccsupport-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4de0241d951f52a74482191c95b4906571de4cbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4486910
+project-id = 849540

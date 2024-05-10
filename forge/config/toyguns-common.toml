@@ -1,0 +1,15 @@
+
+[common]
+	#Should some darts have a chance to be lost when shot? if set to false the chance will be ignored
+	enableDartLoss = true
+	#The chance of a dart being lost when shot is 1/this number
+	#Range: > 0
+	dartLossMinimum = 20
+	#Should Toy Guns jam? if set to false the chance will be ignored
+	enableGunJamming = true
+	#The chance of a dart being lost is 1/this number
+	#Range: > 1
+	dartJamMinimum = 100
+	#Show a status message when a gun jams
+	showGunJamStatusMessage = true
+
