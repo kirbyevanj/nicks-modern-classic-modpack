@@ -1,6 +1,6 @@
 name = "Pastel Shaders"
 filename = "Pastel-Shaders-Universal-v1.100.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
