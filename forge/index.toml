@@ -37,7 +37,7 @@ hash = "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d"
 
 [[files]]
 file = "config/Mekanism/gear.toml"
-hash = "1dac5cacfbc6da406845f0985c4c762bcf5ca39d629e66d80646836af8024c3a"
+hash = "913a54c96dd5526d7d8a3321655dec51cee4867badf7d0d354af0f0c68fd8bef"
 
 [[files]]
 file = "config/Mekanism/general.toml"
