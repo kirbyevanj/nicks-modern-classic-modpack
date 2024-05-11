@@ -218,7 +218,7 @@ key_key.ars_nouveau.qc10:key.keyboard.unknown
 key_key.ars_nouveau.familiar_toggle:key.keyboard.unknown
 key_key.ic2.alt:key.keyboard.left.alt
 key_key.ic2.boost:key.keyboard.left.control
-key_key.ic2.mode:key.keyboard.keypad.divide
+key_key.ic2.mode:key.keyboard.equal
 key_key.ic2.inv:key.keyboard.c
 key_key.ic2.hud:key.keyboard.x
 key_key.ic2.toggle:key.keyboard.v

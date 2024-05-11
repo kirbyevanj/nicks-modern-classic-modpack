@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9c60fb14af754c96c4db85a18ccbf80f21d6c1c93d507b462174b688590c8a73"
+hash = "31198d405f1db2ec9f8f8cc755a81f280bb9cfaa7ee9f134bf43772e603e5f0f"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
@@ -1137,7 +1137,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1fc10ce1956d6df2de1e46338b817826336bd01061356d3514875baae4b18c42"
+hash = "d3c044421a74a902e654274b7723d7d6acbbe890fd2bf452817e26640bbfea01"
 
 [[files]]
 file = "pastel-shaders.pw.toml"
