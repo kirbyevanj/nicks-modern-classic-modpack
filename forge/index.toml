@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "31198d405f1db2ec9f8f8cc755a81f280bb9cfaa7ee9f134bf43772e603e5f0f"
+hash = "c005586bd7332926ac34f2e90230725f5a11566ba21661c05cdd567500c00230"
 
 [[files]]
 file = "bsl-shaders.pw.toml"
