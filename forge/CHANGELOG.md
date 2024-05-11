@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.4](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.3...forge-v2.0.4) (2024-05-11)
+
+
+### ♻ Bug Fixes
+
+* Enable Mekanism veinMining=true ([d85d2bf](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/d85d2bfe8554246042cbc7d6ff2aa99f5d21348c))
+
 ## [2.0.3](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.2...forge-v2.0.3) (2024-05-10)
 
 
