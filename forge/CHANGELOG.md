@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.4...forge-v2.0.5) (2024-05-11)
+
+
+### ♻ Bug Fixes
+
+* changed Mining Laser Mode Switch from slash to equals (keyboard) ([854e320](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/854e320cf297c4efcb621dc3d48dfe018dcf47cc))
+
 ## [2.0.4](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.3...forge-v2.0.4) (2024-05-11)
 
 
