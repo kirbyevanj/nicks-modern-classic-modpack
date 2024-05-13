@@ -3,7 +3,7 @@
 This mod pack contains Tech, Magic, Dimensions, Mobs, Decorative blocks, biomes, quests, vehicles and most importantly, ducks.
 
 This mod pack was inspired by fond memories of 1.12 pack. I wanted to bring that feel to the new world generation of Minecraft 1.19.2. The mod list contains a whole set of mods that stand on their own as a whole new experience and a hand full of quality-of-life improvements too. I started this project so I could host a server for my friends, so we could play Minecraft like we used to. The goal was to create a mod pack that was familiar but new for long time players of the game to feed that yearly two-week Minecraft addiction. Its a lot. you can't do it all on your own. Bring some friends!
-*~ Mr. Nick*
+~ Mr. Nick
 
 ## Client Modpack Usage
 
