@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.6](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.5...forge-v2.0.6) (2024-05-20)
+
+
+### ♻ Bug Fixes
+
+* Moved shaders to shaderpack/ folder ([6c09e54](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/6c09e5420a679e571db094deecba426b687b6c03))
+
 ## [2.0.5](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.4...forge-v2.0.5) (2024-05-11)
 
 
