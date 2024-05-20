@@ -5,21 +5,6 @@ file = "CHANGELOG.md"
 hash = "c005586bd7332926ac34f2e90230725f5a11566ba21661c05cdd567500c00230"
 
 [[files]]
-file = "bsl-shaders.pw.toml"
-hash = "8c703bcf1823bf13f0ec5c4c468b80d02ac14187fc2e55debcc0c987a6ab79a1"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "c2c9bf7a0fe1e9a90f69405141ea3bda3cc9f943112d9e8d5e2554bb6086a8ff"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "e615f392d2572352c369446571b71b318727ceeb76f581740424c1cb39ed8b33"
-metafile = true
-
-[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "a05bfc8be3a127696063cf45d705f251d2c04bc9a092f3c01f0464abda1fac57"
 
@@ -1140,11 +1125,26 @@ file = "options.txt"
 hash = "d3c044421a74a902e654274b7723d7d6acbbe890fd2bf452817e26640bbfea01"
 
 [[files]]
-file = "pastel-shaders.pw.toml"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "8c703bcf1823bf13f0ec5c4c468b80d02ac14187fc2e55debcc0c987a6ab79a1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "c2c9bf7a0fe1e9a90f69405141ea3bda3cc9f943112d9e8d5e2554bb6086a8ff"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "e615f392d2572352c369446571b71b318727ceeb76f581740424c1cb39ed8b33"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pastel-shaders.pw.toml"
 hash = "95998b81c8ba84d8a7ccc37d28cb5b2dc9d03f3d5a437e513cbe9d711cee1b5f"
 metafile = true
 
 [[files]]
-file = "solas-shader.pw.toml"
+file = "shaderpacks/solas-shader.pw.toml"
 hash = "ae174b2e7856cb7400a3cef283d6978b8b64c8d995eb40cf41c8b612bc0a5320"
 metafile = true
