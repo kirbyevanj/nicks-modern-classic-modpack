@@ -37,7 +37,7 @@ hash = "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d"
 
 [[files]]
 file = "config/Mekanism/gear.toml"
-hash = "47a0b2b939f69df4225f9fb7932367d69d8da761efc8515ba5b87dcd901cd405"
+hash = "d2b831d093f1e9a233f63b495cf8bb1339b1f407f2fe603d42f129eac44b4b7a"
 
 [[files]]
 file = "config/Mekanism/general.toml"
@@ -509,7 +509,7 @@ hash = "41c34d569277e7490c9a67d7adae9e8645ce46f2a9e2cc640d160d6d359b7e36"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "37f128f0048e2692a2377f283b474c59721326bb92d98336a43f99859f1fff71"
+hash = "42e493de3e6b9d22c5374c0b60247bc7d7280ca26ed77c5551e33f51d61c53c7"
 
 [[files]]
 file = "config/fml.toml"
@@ -557,7 +557,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "03e3f30ca1a3035f5abd5ec9c177197f8b0b19b08606fa2529603e6c5985a2db"
+hash = "162f0f684ae1149750910a45c226cccc782def4c4ddcfd85fb1ab82c67bfa70d"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -848,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "54109a478528cb2c38af8f77eddc4cb6a5beac479310819a8ff14f175ba6445d"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
