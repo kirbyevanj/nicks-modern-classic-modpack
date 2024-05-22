@@ -22,7 +22,7 @@
 		minDamage = 4
 		#The bonus attack damage of the Atomic Disassembler when it has at least energyUsageWeapon power stored. (Value is in number of half hearts)
 		#Range: 1 ~ 10000
-		maxDamage = 10
+		maxDamage = 8
 		#Attack speed of the Atomic Disassembler.
 		#Range: -4.0 ~ 100.0
 		attackSpeed = -2.4
