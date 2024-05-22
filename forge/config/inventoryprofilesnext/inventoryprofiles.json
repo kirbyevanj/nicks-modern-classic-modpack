@@ -1,9 +1,20 @@
 {
     "ModSettings": {
+        "sort_order": "RAW_ID",
         "first_run": false
     },
     "GuiSettings": {
-        "continuous_crafting_saved_value": false
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "continuous_crafting_saved_value": false,
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        },
+        "show_button_tooltips": false
     },
     "AutoRefillSettings": {
         "refill_armor": {
@@ -11,6 +22,13 @@
         },
         "refill_before_tool_break": {
             "value": false
+        }
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "LEFT_CONTROL,R"
+            }
         }
     }
 }
