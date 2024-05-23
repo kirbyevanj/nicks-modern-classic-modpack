@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "83d0e60b71d775d28bd32d9d7714869aaca80e37ac237c3740c39332bfb4ddb6"
+hash = "73a6dee37dbec86c062679bde30fdf3388cda2740d03c997d9681080556bf9b9"
 
 [[files]]
 file = "config/Mekanism/additions-client.toml"
@@ -900,12 +900,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
+hash = "26fd6f2438ea2a8b4bb4ae36f129e0d8f963c7bd83c22d3252656e617bc3909b"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+hash = "96d631bfc28e0bc223d98b5c22aa8cfd70d999c4968ba898d4f00018ee0c9928"
 metafile = true
 
 [[files]]
