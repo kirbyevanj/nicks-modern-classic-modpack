@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.6...forge-v2.1.0) (2024-05-23)
+
+
+### ♻ Bug Fixes
+
+* trigger release please ([1f5f282](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/1f5f2822809703f9b50cf9a9aa5f8b55a67704a2))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 2.1.0 ([88d3c47](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/88d3c47e62f917a249c4d94efd05c9bcad28d2ff))
+
 ## [2.0.6](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.5...forge-v2.0.6) (2024-05-20)
 
 
