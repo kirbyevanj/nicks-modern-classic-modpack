@@ -696,38 +696,6 @@ file = "config/waddles-common.toml"
 hash = "0d5ba634f936541d56dc463ffb82c0510b66a90ed0e785b084e5bd0ea65e43b8"
 
 [[files]]
-file = "config/waila/blacklist.json"
-hash = "5bef580c7b89b4cb83dc1e2aead254dec881901a0efdc45de28b931214fb4474"
-
-[[files]]
-file = "config/waila/extra/energy_blacklist.json"
-hash = "148e3fb0fbd266cac17934293a3f1c4744abe97757b9e31fc3175a6db4ad04ff"
-
-[[files]]
-file = "config/waila/extra/fluid_blacklist.json"
-hash = "f815ac439c124e29251f2afbad19fe85c36c0b2fe746273faa138c2ec24916eb"
-
-[[files]]
-file = "config/waila/extra/item_blacklist.json"
-hash = "6df5a4534a0afb2c269522fada7234a42f11e8f9d7205d4f19d929d8f7ef0125"
-
-[[files]]
-file = "config/waila/extra/progress_blacklist.json"
-hash = "d7df9ec8da2ce7b460b4a236696ec21f80bfeaf8700fa3573458ce83e97a7bf9"
-
-[[files]]
-file = "config/waila/plugin_toggle.json"
-hash = "b5ab1de5de68ab0fc614e7ccd7a18d4d113e8343e12717f4048922a3067a8dc3"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "5f590261736d21d764ba5df2495533af65b218d4983290b4d2f6b967abc2369a"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "d9f43089181002da199d6396a5ea0c8bb4cbfc4c5938a24c7e08737e20060cbf"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
 
@@ -946,6 +914,16 @@ hash = "956d751937b2f62127a6a6aa39521b33dd6c4a1d99d5e2eb5f86ba426855dbeb"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
 metafile = true
@@ -1118,11 +1096,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "bc4150ed77e034c06811f906be3ddae8217031ad7146e0901e58945c3a4b67de"
 metafile = true
 
 [[files]]
