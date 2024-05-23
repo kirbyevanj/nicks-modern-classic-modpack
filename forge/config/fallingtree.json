@@ -9,7 +9,7 @@
     "detectionMode": "WHOLE_TREE",
     "maxScanSize": 500,
     "maxSize": 100,
-    "maxSizeAction": "ABORT",
+    "maxSizeAction": "CUT",
     "breakOrder": "FURTHEST_FIRST",
     "minimumLeavesAroundRequired": 1,
     "includePersistentLeavesInRequiredCount": true,
@@ -29,9 +29,9 @@
     "denied": [],
     "preserve": false,
     "ignoreTools": false,
-    "damageMultiplicand": 1.0,
+    "damageMultiplicand": 2.0,
     "damageRounding": "ROUND_DOWN",
-    "speedMultiplicand": 0.0,
+    "speedMultiplicand": 1.5,
     "forceToolUsage": false
   },
   "player": {

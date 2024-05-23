@@ -22,7 +22,7 @@ hash = "dab6dbae43bb67fd6a10438c0cbf997c70560c6af3493b60330ac9248587905d"
 
 [[files]]
 file = "config/Mekanism/gear.toml"
-hash = "913a54c96dd5526d7d8a3321655dec51cee4867badf7d0d354af0f0c68fd8bef"
+hash = "d2b831d093f1e9a233f63b495cf8bb1339b1f407f2fe603d42f129eac44b4b7a"
 
 [[files]]
 file = "config/Mekanism/general.toml"
@@ -494,7 +494,7 @@ hash = "41c34d569277e7490c9a67d7adae9e8645ce46f2a9e2cc640d160d6d359b7e36"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "3cb918be192a7a0d3d61fce8ceba4ed9dce2f951182d83882fe8ec70adc4d09c"
+hash = "42e493de3e6b9d22c5374c0b60247bc7d7280ca26ed77c5551e33f51d61c53c7"
 
 [[files]]
 file = "config/fml.toml"
@@ -526,7 +526,7 @@ hash = "6aaecd415307b8df8872c8f3febcdcbb688bc97a3d25fab26f9d2dae8d48a448"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "522875a735bda0dcb3dadb5a5cfca0b43826332ae9bc219c66d1e364f44140a9"
+hash = "d406b989008d9ac4bebb447c1bbcb498ed0acd842b00e512a36ec473282b1443"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
@@ -542,7 +542,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "03e3f30ca1a3035f5abd5ec9c177197f8b0b19b08606fa2529603e6c5985a2db"
+hash = "162f0f684ae1149750910a45c226cccc782def4c4ddcfd85fb1ab82c67bfa70d"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
@@ -681,38 +681,6 @@ file = "config/waddles-common.toml"
 hash = "0d5ba634f936541d56dc463ffb82c0510b66a90ed0e785b084e5bd0ea65e43b8"
 
 [[files]]
-file = "config/waila/blacklist.json"
-hash = "5bef580c7b89b4cb83dc1e2aead254dec881901a0efdc45de28b931214fb4474"
-
-[[files]]
-file = "config/waila/extra/energy_blacklist.json"
-hash = "148e3fb0fbd266cac17934293a3f1c4744abe97757b9e31fc3175a6db4ad04ff"
-
-[[files]]
-file = "config/waila/extra/fluid_blacklist.json"
-hash = "f815ac439c124e29251f2afbad19fe85c36c0b2fe746273faa138c2ec24916eb"
-
-[[files]]
-file = "config/waila/extra/item_blacklist.json"
-hash = "6df5a4534a0afb2c269522fada7234a42f11e8f9d7205d4f19d929d8f7ef0125"
-
-[[files]]
-file = "config/waila/extra/progress_blacklist.json"
-hash = "d7df9ec8da2ce7b460b4a236696ec21f80bfeaf8700fa3573458ce83e97a7bf9"
-
-[[files]]
-file = "config/waila/plugin_toggle.json"
-hash = "b5ab1de5de68ab0fc614e7ccd7a18d4d113e8343e12717f4048922a3067a8dc3"
-
-[[files]]
-file = "config/waila/waila.json"
-hash = "5f590261736d21d764ba5df2495533af65b218d4983290b4d2f6b967abc2369a"
-
-[[files]]
-file = "config/waila/waila_plugins.json"
-hash = "d9f43089181002da199d6396a5ea0c8bb4cbfc4c5938a24c7e08737e20060cbf"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
 
@@ -836,6 +804,11 @@ hash = "54109a478528cb2c38af8f77eddc4cb6a5beac479310819a8ff14f175ba6445d"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -923,6 +896,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "956d751937b2f62127a6a6aa39521b33dd6c4a1d99d5e2eb5f86ba426855dbeb"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2857b1737b8debe4430c17f7f4fe75901710d9ddf5dc946777c6e8f219d595ed"
 metafile = true
 
 [[files]]
@@ -1101,11 +1084,6 @@ hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
 metafile = true
 
 [[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "bc4150ed77e034c06811f906be3ddae8217031ad7146e0901e58945c3a4b67de"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
 hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
 metafile = true
@@ -1122,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d3c044421a74a902e654274b7723d7d6acbbe890fd2bf452817e26640bbfea01"
+hash = "ae0720113e080cc5a99ef819cdc22066429fb83f98b3e361a1e86ebd2022f77b"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"

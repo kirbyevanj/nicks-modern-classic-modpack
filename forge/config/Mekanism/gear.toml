@@ -5,9 +5,9 @@
 	#Atomic Disassembler Settings
 	[gear.atomic_disassembler]
 		#Base Energy (Joules) usage of the Atomic Disassembler. (Gets multiplied by speed factor)
-		energyUsage = "10"
+		energyUsage = "15"
 		#Cost in Joules of using the Atomic Disassembler as a weapon.
-		energyUsageWeapon = "2000"
+		energyUsageWeapon = "8000"
 		#The max Atomic Disassembler Vein Mining Block Count.
 		#Range: 2 ~ 1000000
 		miningCount = 128
@@ -22,7 +22,7 @@
 		minDamage = 4
 		#The bonus attack damage of the Atomic Disassembler when it has at least energyUsageWeapon power stored. (Value is in number of half hearts)
 		#Range: 1 ~ 10000
-		maxDamage = 20
+		maxDamage = 8
 		#Attack speed of the Atomic Disassembler.
 		#Range: -4.0 ~ 100.0
 		attackSpeed = -2.4
