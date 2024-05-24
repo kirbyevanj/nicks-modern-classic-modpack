@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.0...forge-v2.1.1) (2024-05-24)
+
+
+### ☀ Modpack Changes
+
+* **forge/too-fast:** add Too Fast server mod to smooth out flying ([16966e0](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/16966e07a4793a014fe4e9da436cc0d111e428b3))
+
 ## [2.1.0](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.0.6...forge-v2.1.0) (2024-05-23)
 
 
