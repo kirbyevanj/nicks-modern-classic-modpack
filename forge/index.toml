@@ -1069,6 +1069,11 @@ hash = "35dae8cb99da38643fda3173d833dfa7cbf160cb2aa97268f85cf4db6f729c87"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "aaeaae491afb45b067b3d50c76bbfa50d522d4fa7f18ceaf79bc3e7e09533dd6"
+metafile = true
+
+[[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "c20dfb48048366ee3c4dd4b68a33033c44a591afe8c71b299b0ee1047a6864ea"
 metafile = true
