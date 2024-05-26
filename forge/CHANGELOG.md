@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.2](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.1...forge-v2.1.2) (2024-05-26)
+
+
+### ♻ Bug Fixes
+
+* Trigger CI and refresh packwiz ([be94b1d](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/be94b1dc90cddb026aa5897a6928fcf10b9f18fa))
+
+
+### ☀ Modpack Changes
+
+* **forge/connectivity:** Add Connectivity + Cupboard ([9d8b283](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/9d8b283d04dd524ed6f89ff1c0310a29e5f0baac))
+* **forge/packet-fixer:** add Packetfixer ([c08dbfd](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/c08dbfd1d054202603999ac75680a5d14f375ecd))
+
 ## [2.1.1](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.0...forge-v2.1.1) (2024-05-24)
 
 
