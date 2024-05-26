@@ -809,6 +809,11 @@ hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "d2493cda0721ddca80f37aff224e0291256176c6b940a06268fdd3eef45b92a1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
 metafile = true
@@ -826,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/creatures-and-beasts.pw.toml"
 hash = "a0ad62b4db90697c0b17914798c9950553b41a097a93e66b849da80b62225190"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "a91da14e84c3e8d4f225cad1cb2932cd026fb74fb5ffe85f714ba2d6cfafb447"
 metafile = true
 
 [[files]]
