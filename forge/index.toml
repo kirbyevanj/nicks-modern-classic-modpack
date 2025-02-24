@@ -814,6 +814,11 @@ hash = "cc07c618ccefc9a0315e4639697c877954091e81c05a7e3acb2ed1529871f338"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "7ee5b611e896a052a9a8a43fd9ba7b369362e80d6dea90d83227dae1ef94548a"
 metafile = true
