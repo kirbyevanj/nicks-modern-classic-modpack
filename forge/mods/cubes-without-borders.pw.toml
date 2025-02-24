@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-forge-3.0.0+mc1.19.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "2513446d1b57dce197c1a4efa721f922e5af5cfd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5855400
+project-id = 975120
