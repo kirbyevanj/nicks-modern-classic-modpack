@@ -1108,6 +1108,11 @@ hash = "48c14746e68c3b5f13c0b17c3e15801f77fc95c0e9bf0f31b9aabfab8c8b0a63"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "6ecdc44257c2ebb456c25b620f7416933be7c8d5810b5379a34ece0d885b641e"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "38cda05de2967652501067622e52c4d72aebfc2187c812d7966a65ef8789312e"
 metafile = true
