@@ -541,6 +541,10 @@ file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.js
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "3cb789edbe6ee1b3f868f326e7e4fc16eec3cfae28e1b2a691fc4e745c92a524"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "162f0f684ae1149750910a45c226cccc782def4c4ddcfd85fb1ab82c67bfa70d"
 

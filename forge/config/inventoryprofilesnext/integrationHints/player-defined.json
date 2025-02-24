@@ -1,0 +1,20 @@
+{
+    "mekanism.client.gui.machine.GuiFactory": {
+        "ignore": true
+    },
+    "mekanism.common.inventory.container.tile.FactoryContainer": {
+        "ignore": true
+    },
+    "ic2.core.inventory.gui.ComponentContainerScreen": {
+        "ignore": true
+    },
+    "ic2.core.block.machines.containers.mv.ReactorPlannerContainer": {
+        "ignore": true
+    },
+    "mekanism.generators.client.gui.GuiFissionReactor": {
+        "ignore": true
+    },
+    "mekanism.common.registration.impl.ContainerTypeDeferredRegister$ContainerBuilder$1": {
+        "ignore": true
+    }
+}
