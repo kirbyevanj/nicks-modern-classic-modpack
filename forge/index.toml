@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "ca5ab66e55fd02c0ec3a9234d90b5a0f81a42cebabc80ccadc4a2cfd6e806cf5"
+hash = "189fbd62c873718ee19b3a4da65a471ed230d9ab1b8de10a228380d03133a989"
 metafile = true
 
 [[files]]
