@@ -954,6 +954,11 @@ hash = "29c31da4c4c49167bf6ba815da5c2760d14c6f62e05a90bbbb44e54962a30466"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "cfe9fa3aeaa6d0b508d6b20f4da0a6136b034b33071b5a07c386b8532ed0403f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "4a3bba5ee25abee71e11f41208f0ae7f09d48dbd43099b52ef1750532d0247fe"
 metafile = true
