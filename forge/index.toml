@@ -859,6 +859,11 @@ hash = "8502f1c79c8073287e9657a548b947bed4730dc98b53465ce49ef93c9ac0f337"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "aac9d498124912bb65ca3d564732118072bb27fec5fbbfa5ea1884cd5a8f6de2"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "8066019b08d6c6cb7232a63eb1b7018314d5283698171ee8cf56f730ef310e3e"
 metafile = true
