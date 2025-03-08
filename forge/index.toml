@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "44f68b5945482780fcfd6bacaa1f67e8706bda99923c28c6889a8ddc01ad0114"
+hash = "6d372af51ccce68558d4d1b5f0038b6e0c0412bfd4b23721f43903aee03be13a"
 metafile = true
 
 [[files]]
@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "6ecdc44257c2ebb456c25b620f7416933be7c8d5810b5379a34ece0d885b641e"
+hash = "6fd9e6e75a7708f0f10d2f68cbbb4bee1297a0d074a15d302664442445074901"
 metafile = true
 
 [[files]]
