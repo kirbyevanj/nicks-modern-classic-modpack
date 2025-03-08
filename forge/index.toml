@@ -989,6 +989,11 @@ hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
