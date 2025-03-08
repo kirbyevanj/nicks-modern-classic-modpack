@@ -879,6 +879,11 @@ hash = "8066019b08d6c6cb7232a63eb1b7018314d5283698171ee8cf56f730ef310e3e"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
+metafile = true
+
+[[files]]
 file = "mods/ferdinands-flowers.pw.toml"
 hash = "062adc5e64cdfd0352e31aa826e20d0214f21840e3882f3788f15233f3dc0713"
 metafile = true
@@ -1051,6 +1056,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "44be5b4e3516115e78d80e5ba5d888104bf6a0224df4f2dc186332597a66402a"
 metafile = true
 
 [[files]]
