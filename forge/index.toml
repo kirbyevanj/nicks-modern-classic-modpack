@@ -959,6 +959,11 @@ hash = "0e85bdbd2e7ed31821cc4a33f9b57c0e0a176a830693337bb1130146c879360e"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "29c31da4c4c49167bf6ba815da5c2760d14c6f62e05a90bbbb44e54962a30466"
 metafile = true
