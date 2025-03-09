@@ -1004,6 +1004,11 @@ hash = "29c31da4c4c49167bf6ba815da5c2760d14c6f62e05a90bbbb44e54962a30466"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "8bcd18e098706a797aee9ab5ef20c526d3431a11f15e2f66f8389e16d62c3b0e"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "4270595203253e5cdb64ca012f7919a74bd51a78276ff398cb419b6118003499"
 metafile = true
