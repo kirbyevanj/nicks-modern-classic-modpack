@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
-hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
+hash = "4ea96b88f25b3b376f7ef03f9bed87c17a98ae3a1c83cc51aa8d7a1d580c9b09"
 metafile = true
 
 [[files]]
@@ -886,6 +886,11 @@ metafile = true
 [[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "8066019b08d6c6cb7232a63eb1b7018314d5283698171ee8cf56f730ef310e3e"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "534a07d970cbf69e74b872218550a94fe062060e3e2c001b2c37d7c973787a07"
 metafile = true
 
 [[files]]
