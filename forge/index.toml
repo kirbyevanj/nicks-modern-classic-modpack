@@ -739,6 +739,11 @@ hash = "56088aae8a528bbeec2cc626933ec7219206db920c2ee43af27d71b8a5c16ebf"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "c6563048a89886d1449efed0bbc2c85efab5b134f0d98258d90ea0ca2036ae96"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "6c7ee4389584b656fc4d835050fe8af5b6ca85965f4a8b21c72e1194c1b7fe89"
 metafile = true
