@@ -19,7 +19,7 @@ See: [Packwiz Installer Documentation](https://packwiz.infra.link/tutorials/inst
 
 1. Create a new minecraft 1.19.2 instance.
 2. Add [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases) to the .minecraft folder of the instance.
-3. Edit instance -> Version -> Add Forge 43.3.0 modloader
+3. Edit instance -> Version -> Add Recommended Forge loader for 1.19.2.
 4. Edit instance -> Settings -> Custom Commands -> Add pre-launch command below.
     * `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://kirbyevanj.github.io/nicks-modern-classic-modpack/forge/pack.toml`
 5. Start client. The client will automatically update on each start. If there are jar files that need to be downloaded manually a pop-up window will appear with links to those files. Then you are ready to play!
