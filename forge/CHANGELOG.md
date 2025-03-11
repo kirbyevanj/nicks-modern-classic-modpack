@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.3](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.2...forge-v2.1.3) (2025-03-11)
+
+
+### ☀ Modpack Changes
+
+* **forge/oculus:** Update Oculus 1.6.9 -&gt; 1.6.9a ([2ca471e](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/2ca471ee5d3e0fd07bc1883186ca5e1b805af776))
+
+
+### ⛭ Miscellaneous
+
+* release forge 2.1.3 ([fa37f62](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/fa37f62f63cec7917a82d62c6491f2afd8c8e353))
+
 ## [2.1.2](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.1...forge-v2.1.2) (2024-05-26)
 
 

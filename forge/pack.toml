@@ -1,12 +1,12 @@
 name = "Nick's Modern Classic"
 author = "Nick Bernhoft"
-version = "2.1.2"
+version = "2.1.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e72a1f1d27dfbd4ac9a9865f28d042c67e937482ae1aef99c41f0ef41ceb243c"
+hash = "2ae0b61e04c34ed5e37d6d67f97a7db6c275b429973f10d22ac1e89d2f710754"
 
 [versions]
 forge = "43.5.0"
