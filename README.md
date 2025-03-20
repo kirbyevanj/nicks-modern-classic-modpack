@@ -5,6 +5,10 @@ This mod pack contains Tech, Magic, Dimensions, Mobs, Decorative blocks, biomes,
 This mod pack was inspired by fond memories of 1.12 pack. I wanted to bring that feel to the new world generation of Minecraft 1.19.2. The mod list contains a whole set of mods that stand on their own as a whole new experience and a hand full of quality-of-life improvements too. I started this project so I could host a server for my friends, so we could play Minecraft like we used to. The goal was to create a mod pack that was familiar but new for long time players of the game to feed that yearly two-week Minecraft addiction. Its a lot. you can't do it all on your own. Bring some friends!
 ~ Mr. Nick
 
+## Modlist
+The complete mod list can be found here: [modlist.txt](modlist.txt)
+
+
 ## Client Modpack Usage
 
 ### CurseForge Client
@@ -13,7 +17,7 @@ This mod pack was inspired by fond memories of 1.12 pack. I wanted to bring that
 2. Add [Nick's Modern Classic Modpack](https://www.curseforge.com/minecraft/modpacks/nicks-modern-classic) as a new instance.
 3. Start the instance, and you're ready to play!
 
-### MultiMC Client
+### Prism Launcher/MultiMC Client
 
 See: [Packwiz Installer Documentation](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)
 
@@ -28,7 +32,7 @@ See: [Packwiz Installer Documentation](https://packwiz.infra.link/tutorials/inst
 
 See: [Packwiz Installer Documentation](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)
 
-1. Create a new [Forge 43.3.0](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) server.
+1. Create a new [Forge server for 1.19.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html).
 2. Add [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases) to the server folder.
 3. Create an `update.sh` (linux) or `update.bat` (windows) script in the server folder with the following contents
     * `java -jar packwiz-installer-bootstrap.jar -g -s server https://kirbyevanj.github.io/nicks-modern-classic-modpack/forge/pack.toml`
