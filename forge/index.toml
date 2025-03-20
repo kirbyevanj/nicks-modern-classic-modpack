@@ -1179,6 +1179,11 @@ hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
 metafile = true
 
 [[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "5b41c25289361f7791a080ef812c7cab6d9f63ab57b63b0d3ec6694bb78d18dc"
+metafile = true
+
+[[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "35dae8cb99da38643fda3173d833dfa7cbf160cb2aa97268f85cf4db6f729c87"
 metafile = true
