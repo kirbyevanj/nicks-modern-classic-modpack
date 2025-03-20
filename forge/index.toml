@@ -1009,6 +1009,11 @@ hash = "29c31da4c4c49167bf6ba815da5c2760d14c6f62e05a90bbbb44e54962a30466"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "f43d81c21ee75f1ca04865958e5c3da4971f0ff824b82359e85ce5f765a9b92f"
+metafile = true
+
+[[files]]
 file = "mods/lightspeedmod.pw.toml"
 hash = "8bcd18e098706a797aee9ab5ef20c526d3431a11f15e2f66f8389e16d62c3b0e"
 metafile = true
