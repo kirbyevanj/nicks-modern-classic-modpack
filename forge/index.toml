@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+hash = "5da81758b1fee2158f7245ca9826f6cd415664095fab2091e54df2c64924f067"
 metafile = true
 
 [[files]]
