@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "10b348e4e5911e04bca024e06f12eff4e364a756110481f6c4978eec68659af0"
+hash = "e09d3120ef839e26ce1264eb163b153e4120025bb887f98a5e1e310711b35177"
 metafile = true
 
 [[files]]
