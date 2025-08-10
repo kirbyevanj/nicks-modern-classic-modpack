@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2dbb9ec338e37088bfc723a66f28b2ad97c997d14faaac2bbb4756c0394a820f"
+hash = "03851f8f1b070fa6a19df3577e7fe793a89981c34318ef5c4e55cf04d815e180"
 
 [[files]]
 file = "config/Mekanism/additions-client.toml"
