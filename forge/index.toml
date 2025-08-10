@@ -1244,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/pastel-shaders.pw.toml"
-hash = "95998b81c8ba84d8a7ccc37d28cb5b2dc9d03f3d5a437e513cbe9d711cee1b5f"
+hash = "587e11886ea9ff88deb346e38902dc909f35139cf9ebe18a33632c0d438274ee"
 metafile = true
 
 [[files]]
