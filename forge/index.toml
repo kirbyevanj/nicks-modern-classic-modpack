@@ -899,6 +899,11 @@ hash = "8756c16218b9144648af699de6bf181dbba9643cc58394363a56812e39647d3f"
 metafile = true
 
 [[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "0d5d331d36bb830010dc9b6117011b0df61b7c507249fd6d94da0fccfaff406e"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "8066019b08d6c6cb7232a63eb1b7018314d5283698171ee8cf56f730ef310e3e"
 metafile = true
