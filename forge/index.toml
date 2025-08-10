@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
+hash = "d115c106f6d3ef7d85bb06351b5b12c8305f7e6b1f7aa0980d13c4c64b96fd80"
 metafile = true
 
 [[files]]
