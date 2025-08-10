@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/ic2-classic.pw.toml"
-hash = "69c46d1cb708a993efebeec12fe46db2ed1927393f02372047465fd82197dba6"
+hash = "3fe8e18e9cfd7de92daa13f96f78927981df1ced569cff7b994a0c85967784f8"
 metafile = true
 
 [[files]]
