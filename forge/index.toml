@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
-hash = "d07aad009ac2e58a667d5893e862ab362db02e1ba104aa2dfd65337afb3551e6"
+hash = "4b54a13f608d5dcc073c5140b5f99ee31aa720d125069792445e0fbdf5a3db06"
 metafile = true
 
 [[files]]
