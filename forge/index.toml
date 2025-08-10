@@ -789,6 +789,11 @@ hash = "5ac82b3b4a39fbab4255daff457d85787c09f32b01bbfeac5cf4aa2234b2164a"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "5e8d319a80801ece15d909560a192703432963515c6febc81fa9de35ff8f21d4"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
 metafile = true
