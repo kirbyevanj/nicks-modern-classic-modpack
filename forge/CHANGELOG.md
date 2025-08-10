@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.5](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.4...forge-v2.1.5) (2025-08-10)
+
+
+### ♻ Bug Fixes
+
+* Trigger CI ([dbf40f7](https://github.com/kirbyevanj/nicks-modern-classic-modpack/commit/dbf40f7b6c2aebc9703e42b9d3e8d1966f99e02f))
+
 ## [2.1.4](https://github.com/kirbyevanj/nicks-modern-classic-modpack/compare/forge-v2.1.3...forge-v2.1.4) (2025-08-10)
 
 
