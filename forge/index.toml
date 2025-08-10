@@ -804,6 +804,11 @@ hash = "10ee6e657f98a4c9ce0e6fb8bd615f7a0332fe9123df35b3a64ab8a0beeea7b6"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "4ea96b88f25b3b376f7ef03f9bed87c17a98ae3a1c83cc51aa8d7a1d580c9b09"
 metafile = true
