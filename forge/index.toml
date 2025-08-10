@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0fd3bbfdd33c5bf2cf7fbf70dc47623e82cf98b12ebf5340cbdbaaa787bb7a49"
+hash = "0582d1c0959e905ae3fe4bd862bacdfb623d7de6fe5325c0e2b3dde9f520478c"
 metafile = true
 
 [[files]]
